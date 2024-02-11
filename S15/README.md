@@ -67,7 +67,7 @@ stty: 'standard input': Inappropriate ioctl for device
 --------------------------------------------------------------------------------
     SOURCE: Knitting, sewing, reading, writing, ciphering, will be all you will have to teach.
     TARGET: Non dovete insegnar loro altro che a far la calza, a cucire, a leggere, a scrivere e a far di conto.
- PREDICTED: , , , tutti , tutto .
+    PREDICTED: , , , tutti , tutto .
 --------------------------------------------------------------------------------
     SOURCE: 'I will fetch it at once.
     TARGET: — La porto subito.
