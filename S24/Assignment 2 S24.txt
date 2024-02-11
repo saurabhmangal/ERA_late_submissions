@@ -1,0 +1,19 @@
+1. What happens when "boundary-signal" is weak when compared to the last reward?
+
+
+
+When the "boundary-signal" is weak compared to the last reward in a reinforcement learning setting, it implies that the agent is receiving a signal or information from its environment that suggests it is approaching a boundary or constraint, but this signal is not as significant or influential as the recently received reward. This scenario can have different implications depending on the context of the reinforcement learning problem:
+
+i. Prioritization of Rewards: If the "boundary-signal" is weak compared to the last reward, the agent may prioritize the recent reward and the associated action over the boundary signal. This means that the agent is likely to continue pursuing the behavior that led to the recent reward, even if it means approaching a boundary.
+
+ii. Exploration vs. Exploitation: If the last reward was substantial, the agent may exploit the action that led to that reward, especially if it's uncertain about the implications of the weak "boundary-signal."
+
+iii. Risk of Boundary Violation: Depending on the nature of the task, a weak "boundary-signal" might indicate that the agent is getting close to a boundary or constraint in the environment. If the agent consistently ignores or undervalues these weak signals, it may eventually violate important boundaries
+
+2. What happens when Temperature is reduced? 
+
+Reducing temperature in reinforcement learning makes the agent's actions less random and more deterministic, as it relies more on its learned Q-values. This can be useful for exploiting known strategies and stabilizing behavior. However, it may reduce the agent's ability to explore and discover new actions.
+
+3. What is the effect of reducing (gamma)?
+
+Reducing the discount factor (gamma) in reinforcement learning makes the agent focus more on immediate rewards and less on long-term consequences. This can lead to short-sighted decision-making, where the agent prioritizes short-term gains over long-term rewards. Conversely, a higher gamma values encourage the agent to consider long-term consequences and make more patient decisions.

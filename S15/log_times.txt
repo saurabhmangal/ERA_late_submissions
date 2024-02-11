@@ -1,0 +1,184 @@
+NOTE! Installing ujson may make loading annotations faster.
+Using device: cuda
+Max length of source sentence: 309
+Max length of target sentence: 274
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: A famous prima donna was giving her second performance and all high Society was at the Opera House.
+    TARGET: La cantante famosa cantava per la seconda volta e tutto il gran mondo era a teatro.
+ PREDICTED: , e , e , e , e a .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Far from it.
+    TARGET: — Punto.
+ PREDICTED: — Non è più .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: At this moment I discover that I forgot to take my parcel out of the pocket of the coach, where I had placed it for safety; there it remains, there it must remain; and now, I am absolutely destitute.
+    TARGET: In quel momento mi accorgo che ho dimenticato il mio involto nella sacca della carrozza, ove l'avevo messo perché fosse più sicuro; devo lasciarvelo per forza e io non ho nessuna risorsa, nulla.
+ PREDICTED: a me , che mi la porta , e mi la porta , e mi , e io non mi .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: And as if it were not enough to have aggrandized the Church, and deprived himself of friends, he, wishing to have the kingdom of Naples, divides it with the King of Spain, and where he was the prime arbiter in Italy he takes an associate, so that the ambitious of that country and the malcontents of his own should have somewhere to shelter; and whereas he could have left in the kingdom his own pensioner as king, he drove him out, to put one there who was able to drive him, Louis, out in turn.
+    TARGET: Non li bastò avere fatto grande la Chiesia e toltisi li amici, che, per volere il regno di Napoli, lo divise con il re di Spagna; e, dove lui era prima arbitro d'Italia e' vi misse uno compagno, a ciò che li ambiziosi di quella provincia e mal contenti di lui avessino dove ricorrere; e, dove posseva lasciare in quello regno uno re suo pensionario, e' ne lo trasse, per mettervi uno che potessi cacciarne lui.
+ PREDICTED: E non si , non si , e ' uomini , e ' uomini , e ' uomini , , e ' principi , , e ' principi , , e ' principi , e ' principi , , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' , , e ' principi , e ' principi , e ' , e ' principi , e ' , e ' , , e ' principi , e ' principi , e ' principi , e ' principi , e ' principi , e ' , e ' , , , , , , , , e ' principi , e ' , e ' principi , e ' , , e ' , , , , e ' , , e ' , e ' , e ' , , , , , , , , , e ' , , , , e ' , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ' ' , , , , , , , , , , , , , , , , ,
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Good morning, Miss Adela," said Mrs. Fairfax.
+    TARGET: — Buongiorno, signorina Adele, — disse la signora Fairfax.
+ PREDICTED: — , signora , — disse il signor Rochester .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The painful memories became more and more covered over by the commonplace but important events of country life.
+    TARGET: I ricordi penosi venivano sempre più velati dagli impercettibili, ma significativi avvenimenti della vita di campagna.
+ PREDICTED: Il suo amore era stato più più di cui il mondo si , ma il mondo non si .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'But I am not suggesting it...
+    TARGET: — Sì, ma io non dico...
+ PREDICTED: — Ma io non sono nulla di straordinario .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: I shall be there at six.'
+    TARGET: Vi sarò alle sei».
+ PREDICTED: Io sono qui per andare a .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: After living in Moscow, especially in the bosom of his family, Oblonsky always felt his spirits flag.
+    TARGET: Dopo aver vissuto un po’ a Mosca, specialmente vicino alla famiglia, sentiva che andava giù di umore.
+ PREDICTED: Dopo il marito , in cui il suo cuore , in cui era stato sempre più di Stepan Arkad ’ ic , in lui , in lui , in lui , in cui era stato stato il suo stato , e in casa di Mosca , in casa sua .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: If I were immoral I could make her husband fall in love with me... if I wanted to.
+    TARGET: Se fossi una donna immorale avrei potuto fare innamorare di me suo marito... se avessi voluto.
+ PREDICTED: Se fossi stata qui , avrei potuto con la sua situazione , se ne ho bisogno .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'Yes! Do let's go!' cried Veslovsky, changing from one chair to another and sitting sideways with one of his fat legs doubled under him.
+    TARGET: — Andiamo, vi prego — disse Veslovskij, mettendosi a sedere di fianco e ripiegando sotto di sé una delle sue gambe grasse.
+ PREDICTED: — Sì , va ’ a destra — disse Veslovskij , un ’ altra sedia , a un ’ altra bottiglia , con un ’ altra estremità su di lui .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: So this was Nevedovsky!
+    TARGET: Era Nevedovskij in persona.
+ PREDICTED: Così era a Mosca .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Having carefully considered the subject of the above discourses, and wondering within myself whether the present times were propitious to a new prince, and whether there were elements that would give an opportunity to a wise and virtuous one to introduce a new order of things which would do honour to him and good to the people of this country, it appears to me that so many things concur to favour a new prince that I never knew a time more fit than the present.
+    TARGET: Considerato, adunque, tutte le cose di sopra discorse, e pensando meco medesimo se, in Italia al presente, correvano tempi da onorare uno nuovo principe, e se ci era materia che dessi occasione a uno prudente e virtuoso di introdurvi forma che facessi onore a lui e bene alla università delli uomini di quella, mi pare corrino tante cose in benefizio d’uno principe nuovo, che io non so qual mai tempo fussi più atto a questo.
+ PREDICTED: , per la materia di , e , , si volse a sé , uno principe nuovo , e se fussi fatto uno principe , e se uno principe debbe essere uno principe di quello che si fussi fatto , e che per me ne ' tempi non si può fare mai più mai più che non si può fare mai più mai più che tanto tempo mi è mai più che tanto più che non mi è mai più mai più mai più che me .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'But it's no use now,' thought poor Alice, 'to pretend to be two people! Why, there's hardly enough of me left to make one respectable person!'
+    TARGET: “Ma ora è inutile voler credermi in due — pensò la povera Alice, — mi resta appena tanto da formare un'unica bambina.”
+ PREDICTED: “ Ma non si può credere , — pensò Alice , — ma forse che si di due persone , perchè non c ' è più di me .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: I shall go alone when you are away, and won't inconvenience anyone.
+    TARGET: Andrò da sola, quando tu sarai già andato via, e così non darò fastidio a nessuno.
+ PREDICTED: Io vado sola , quando vi , e non vi nulla .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: She too will be buried, and that piebald gelding too – and that one very soon,' he reflected, looking at a horse breathing quickly with falling and rising belly and inflated nostrils, as it trod on the slanting wheel that moved under it. 'They will bury her, and so they will Theodore, who is feeding the machine, his curly beard full of chaff and his shirt torn on his white shoulder.
+    TARGET: Anche lei sotterreranno, e questo cavallo pezzato molto presto — pensava guardando un cavallo che trascinava il ventre a stento e respirava frequentemente con le froge rigonfie, oltrepassando una ruota ricurva che gli si moveva sotto — lo sotterreranno, e anche Fëdor il porgitore, con quella barba ricciuta piena di pula e la camicia strappata sulla spalla bianca, sotterreranno.
+ PREDICTED: anche più , e che i piedi , e che , a un tratto , si levò in un attimo , si levò , si levò con un , si sollevò e si , , come si , le sulle molle del ventaglio e le , che la barba sulla barba , si , e il capo , che la barba , sulle dita e le mani , sulle dita sottili e le mani , che le mani , sulle mani , sulle mani , sulle mani , che le mani , le mani , e le mani di un braccio di un braccio , che , le mani , che , le e le mani , che , che , , le mani , le mani , le , le mani , le mani , le le mani , e le mani e le mani e le mani , le mani , le mani , , , le mani , le mani , le mani , , , , , , e le mani e le mani , , , , , le mani di lui si , le mani , le mani , le mani , le mani , le mani , le mani , le mani di lui si , le mani , le mani , le mani , le mani , le mani , le mani , , le mani , le mani , le mani , le mani di lui si , le mani si sulle mani sulle mani , le mani , le mani , le mani , le mani , le mani , le mani , le mani , le mani , le mani di un braccio di lui sulle mani sulle mani sulle dita le mani sulle mani sulle mani sulle mani sulle
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: If you have got your feet well warmed, I'll show you your bedroom. I've had the room next to mine prepared for you; it is only a small apartment, but I thought you would like it better than one of the large front chambers: to be sure they have finer furniture, but they are so dreary and solitary, I never sleep in them myself."
+    TARGET: Se vi siete bene riscaldata i piedi, vi condurrò nella vostra stanza: vi ho preparata una stanza vicino alla mia; essa è molto piccina, ma ho pensato che vi ci troverete meglio che nelle grandi stanze sul davanti; i mobili certo vi sono migliori, ma esse sono così tristi e solitarie che io non ci dormirei.
+ PREDICTED: Se avete fatto bene a voi , mi piace che le spalle ; ho fatto un po ' di tempo per la camera , ma è una camera più tranquilla , se ne avete bisogno , il più piccolo , e la prima luce non c ' è nulla di comune .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The Princess Tverskaya came accompanied by Tushkevich and a young girl, a relation, who to the great delight of her provincial parents was spending the summer with the grand Princess.
+    TARGET: La principessa Tverskaja stava con Tuškevic e una parente nubile che, con grande gioia dei genitori di provincia, passava l’estate presso la famosa principessa.
+ PREDICTED: La principessa Tverskaja venne incontro con Tuškevic e Tuškevic , con una inglese che , con la quale era stata una grande importanza ai genitori , con la principessa Tverskaja , era la migliore inglese .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: I love him, I am his mistress, I cannot endure you, I am afraid of you, and I hate you...
+    TARGET: Io amo lui, sono la sua amante, e non posso più resistere. Ho paura, vi odio....
+ PREDICTED: Io amo lui , la sua amante , non posso non credere che tu sia voi , e tu ti odio ...
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: As for my face, the colour of it was really not so mulatto-like as one might expect from a man not at all careful of it, and living within nine or ten degrees of the equinox.
+    TARGET: Quanto al colore del mio volto non era veramente tanto quel d’un mulatto, quanto si sarebbe potuto aspettare da un uomo che non si curava niente di comparire e che vivea tra i nove e i dieci gradi dell’equatore.
+ PREDICTED: Quanto al mio volto , la luce non mi pensava che una specie di non avrebbe potuto trovare un uomo di uomo , e mezzo di dieci o dodici , che dopo dieci o dodici o quattro o dodici o cinque o quattro o cinque o cinque minuti dopo .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: But Serezha, though he heard his tutor's weak voice, paid no heed to it.
+    TARGET: Ma Serëza, pur avendo sentito la voce fiacca dell’istitutore, non vi fece attenzione.
+ PREDICTED: Ma Serëza , invece , sentiva la voce della della di , non le riuscì a .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Click! click! Oblonsky cocked his gun.
+    TARGET: Cik! cik!, scattarono i cani del fucile alzati da Stepan Arkad’ic.
+ PREDICTED: , e , dopo aver bevuto , Stepan Arkad ’ ic .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'Yes, indeed.
+    TARGET: — È proprio così.
+ PREDICTED: — Sì , sì .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Did no one see Mr. Rochester?"
+    TARGET: Nessuno ha veduto il signor Rochester?
+ PREDICTED: Non si vede forse forse il signor Rochester ?
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He is still tormented by the memory of Vronsky.
+    TARGET: Ancora adesso lui si tormenta al ricordo di Vronskij.
+ PREDICTED: È proprio in lui un ’ allusione alla memoria di Vronskij .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'Ah, they've already arrived,' said Anna, looking at the horses that were being led away from the front door. 'Don't you think that one is a beautiful horse?
+    TARGET: — Ah, sono già arrivati! — disse Anna, guardando i cavalli da sella che stavano portando via proprio allora dall’ingresso. — Vero che è bello questo cavallo? È un cob.
+ PREDICTED: — Ah , loro , sono già già da tempo — disse Anna , guardando i cavalli dal cavallo . — Non pensate che non vi sia bello ?
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He is not a man, but a machine, and a cruel machine when angry,' she added, picturing Karenin to herself with every detail of his figure and way of speaking,
+    TARGET: Non è un uomo, ma una macchina, e una macchina cattiva, quando si arrabbia — ella aggiunse, ricordandosi intanto di Aleksej Aleksandrovic in tutti i particolari della sua figura, del suo modo di parlare e del suo carattere, e facendogli colpa di tutto quello che ella poteva trovare di cattivo in lui, senza perdonargli nulla, proprio per quella terribile colpa che essa aveva verso di lui.
+ PREDICTED: Non è un uomo , ma una macchina ministeriale , e una macchina piena di sfida , — soggiunse Aleksej Aleksandrovic , ricordando con ogni viso e con intenzione di parlare .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The Marshal of the Province is our opponent, and you are ami cochon [You are quite thick with him.] with him and ask him to stand.
+    TARGET: Il maresciallo del governatorato è nostro avversario, tu sei ami cochon con lui e lo preghi di entrare in ballottaggio.
+ PREDICTED: Il maresciallo del governatorato è che noi , e voi , ci , si a sedere con lui e lo .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: They pull on pretty steadily for a bit, after this, and then it all at once occurs to one of them that she will pin up her frock, and they ease up for the purpose, and the boat runs aground.
+    TARGET: Dopo tirano abbastanza bene per un pezzo, e poi a un tratto viene in mente a una di appuntarsi la gonna, e si fermano perciò, e la barca corre alla sponda.
+ PREDICTED: un po ’ di riposo per un po ’ di difficoltà , poi , dopo di cominciare a cominciare un pretesto a scrivere che non si , e si misero a camminare per il proprio punto di vista , e le misero agli scacchi .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'That's different from what I used to say when I was a child,' said the Gryphon.
+    TARGET: — Ma questo è tutto diverso da quello che recitavo da bambino, — disse il Grifone.
+ PREDICTED: — Questo è un vero che io mi ha fatto sapere , — disse il Grifone .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'That's in the style of the story, "That's just what I can't bear"; do you know it?' asked Oblonsky. 'Oh, it's delightful!
+    TARGET: — È dello stesso stampo di: “io questo proprio non lo posso sopportare”. La sai? — chiese Stepan Arkad’ic. — Ah, è un incanto!
+ PREDICTED: — È la storia di , appunto , appunto per questo , non posso dire che io sia vero ? — disse Stepan Arkad ’ ic . — Ah , bene bene .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: “Well, then,” said I, “if God does not forsake me, of what ill consequence can it be, or what matters it, though the world should all forsake me, seeing on the other hand, if I had all the world, and should lose the favour and blessing of God, there would be no comparison in the loss?”
+    TARGET: «Quand’è così, dunque, diss’io, se Dio non mi abbandona, che male può derivarne, o che importa a me, se anche tutto il mondo mi abbandona? D’altronde, se tutto il mondo fosse mio, e dovessi perdere la grazia e la benedizione di Dio, vi sarebb’egli confronto tra il guadagno e la perdita?»
+ PREDICTED: Voi non voler venir avanti , io non senza di me , come la potete , ancorchè ciò fosse così fosse avvenuto al mondo , e tutto ciò che poteva affatto essere su tutti gli altri . in ciò che poteva essere solo in condizione di Dio , se non avesse dato aiuto al cielo di Dio e non in ciò che sarebbe stato il male .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He knew that he would not see them during the race.
+    TARGET: Sapeva che nella corsa non li avrebbe più visti.
+ PREDICTED: Sapeva che essi non si sarebbe trovata la corsa all ’ estero .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'Oh no, excuse me!
+    TARGET: — Vi prego.
+ PREDICTED: — Ma no , .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "I am cold, sir."
+    TARGET: — Ho freddo, signore.
+ PREDICTED: — Sono fredda , signore .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Such is the sole conjugal embrace I am ever to know--such are the endearments which are to solace my leisure hours!
+    TARGET: — Ecco mia moglie, — disse, — ecco i soli amplessi coniugali che mi sono riserbati, ecco le carezze che debbono addolcire le mie ore di riposo.
+ PREDICTED: — Tale è l ' occupazione che conoscete , e le donne sono che ogni godimento .
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: And remembering her dream she went to the opposite door, trembling with fright.
+    TARGET: E, ricordatasi del sogno, si allontanò, tremando di paura, verso la parte opposta.
+ PREDICTED: E , ricordando il proprio sogno , andò dalla porta con la mano fredda e .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: But I want you to tell me this...'
+    TARGET: Ma, ecco, cosa mi devi dire...
+ PREDICTED: Ma io ti occorre una conferma ....
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: And further, I consider that a prince ought to cherish the nobles, but not so as to make himself hated by the people.
+    TARGET: Di nuovo concludo che uno principe debbe stimare e' grandi, ma non si fare odiare dal populo.
+ PREDICTED: E ancora che si debba pensare uno principe , che lo fa , ma non si debbe guardare la gente che lo fanno da sé .
+-----------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Let us have a drink together!
+    TARGET: Vronskij, bevi anche tu? — disse Petrickij, alzandosi e avviluppandosi in una coperta tigrata.
+ PREDICTED: insieme .
+-----------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,4 @@
+NOTE! Installing ujson may make loading annotations faster.
+Using device: cuda
+Max length of source sentence: 309
+Max length of target sentence: 274

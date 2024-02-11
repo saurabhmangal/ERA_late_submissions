@@ -1,0 +1,276 @@
+NOTE! Installing ujson may make loading annotations faster.
+Using device: cuda
+Max length of source sentence token: 44
+Max length of target sentence token: 47
+Max length of source sentence: 149
+Max length of target sentence: 158
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Life-sustaining air reached our lungs!
+    TARGET: L'air vital arrivait aux poumons !
+ PREDICTED: - ci , notre air de notre air !
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: How shall I begin?"
+    TARGET: Par où commencerai-je?»
+ PREDICTED: Que je vais - je ?
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: I should turn round.
+    TARGET: Ce serait elle.
+ PREDICTED: Je voudrais se promener .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Next Tuesday?"
+    TARGET: --Mardi prochain?
+ PREDICTED: -- Le lendemain ?
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He flung himself on the arm which held the knife, crying: "Quasimodo!"
+    TARGET: Il se jeta sur le bras qui tenait le coutelas en criant : « Quasimodo ! »
+ PREDICTED: Il se jeta sur le bras qui tenait le couteau , criant Quasimodo :
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: It seemed to Julien that there was far too much hair in his wig.
+    TARGET: Il sembla à Julien que sa perruque avait beaucoup trop de cheveux.
+ PREDICTED: Il semblait être loin de Julien , trop haut dans son sang .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The detective was therefore in a sore strait. But suddenly a new idea struck him.
+    TARGET: L'inspecteur de police était donc extrêmement embarrassé, quand la présence de Mrs.
+ PREDICTED: L ' inspecteur était donc à la force du détroit , mais tout à coup de nouveau lui fit un nouveau coup .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Just then Conseil woke up, together with the Nautilus's sailor.
+    TARGET: Conseil et le matelot du _Nautilus_ s'éveillèrent en ce moment.
+ PREDICTED: En ce moment Conseil s ' écria , avec le marin .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Instead of coming to find me where the others knew that I always was at the time we had arranged to meet, he went straight to the front door.
+    TARGET: Au lieu de venir me trouver là où les autres savaient que j’étais toujours, à l’heure de nos rendez-vous, il gagna directement la porté d’entrée.
+ PREDICTED: Au lieu de venir , où les autres savaient que je fus toujours au moment où nous étions toujours servi , il descendit et alla droit .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "I have lost it," replied Gringoire.
+    TARGET: – Je l’ai perdue, dit Gringoire.
+ PREDICTED: – Je l ’ ai perdue , répondit Gringoire .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: With bowed head I watched my shoes getting wet in the rain and shining - paying them no heed.
+    TARGET: La tête basse, je regardais, sans y songer, mes souliers se mouiller peu à peu et luire d’eau.
+ PREDICTED: La tête s ' inclina dans les souliers et les dentelles , je les ai , je les ai bien .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: She had known, it seems, of their being in love with each other, many weeks."
+    TARGET: Elle savait qu’ils s’aimaient, semble-t-il, depuis plusieurs semaines.
+ PREDICTED: Elle avait connu , elle semble , d ' être l ' amour , avec les autres semaines , plusieurs semaines .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Mrs. Long told me last night that he sat close to her for half-an-hour without once opening his lips."
+    TARGET: Mrs. Long me disait hier soir qu’il était resté une demi-heure a côté d’elle sans desserrer les levres.
+ PREDICTED: Mme de la nuit me dit la nuit dernière qu ' il s ' assit à demi - heure , sans ouvrir sa bouche .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: It returns from the crusades with the pointed arch, like the nations with liberty.
+    TARGET: Elle est revenue des croisades avec l’ogive, comme les nations avec la liberté.
+ PREDICTED: Il revient du , comme les peuples .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Oh, I would give ten years of my life to weep at her feet for an hour!"
+    TARGET: Oh! je donnerais dix ans de ma vie pour pleurer une heure à ses pieds.
+ PREDICTED: Oh ! j ’ aurais dix ans de la vie pour pleurer sur ses pieds d ’ une heure !
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "I trust that they do not mean that I have done anything to forfeit your confidence?"
+    TARGET: J’espère qu’elles ne signifient pas que j’ai démérité de votre confiance ? »
+ PREDICTED: -- Je n ' espère pas qu ' on ne fait rien de plus que de quelque confiance à votre confiance ?
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Come! you have sworn with the others!"
+    TARGET: Allons! tu as juré avec les autres!
+ PREDICTED: — Tiens ! tu as juré avec les autres !
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He decided to study for a moment the people who were trying to crush him with their disdain.
+    TARGET: Il voulut étudier un instant les gens qui prétendaient l’accabler de leur dédain.
+ PREDICTED: Il se décidait à cabinet un instant , le peuple qui voulut l ’ écraser avec le dédain .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Monsieur le Procureur du Roi," said Pierrat abruptly, "How shall we begin?"
+    TARGET: – Monsieur le procureur du roi, dit brusquement Pierrat, par où commencerons-nous ? »
+ PREDICTED: « Monsieur the , dit brusquement , comment commençons - nous ?
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The squares were broken to shivers; and Athos, like the spectre of vengeance, leaped into the room.
+    TARGET: Et Athos, pareil au spectre de la vengeance, sauta dans la chambre.
+ PREDICTED: Les place étaient brisées pour se dissiper , Athos comme le spectre de la vengeance , sauta dans la chambre .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The struggles that rent her heart asunder were all the more terrible in that there was nothing reasonable in her fear.
+    TARGET: Les combats qui déchiraient son âme étaient d’autant plus affreux qu’il n’y avait rien de raisonnable dans sa peur.
+ PREDICTED: Les lutte lui son cœur se de plus en plus terrible , n ' était rien pour sa peur .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Ah, he was a good friend, very devoted, very faithful, a rare soul inthese days."
+    TARGET: --Ah! c'était un brave ami, bien dévoué, bien fidèle, un homme rare, parle temps qui court.
+ PREDICTED: -- Ah ! il était bon ami , très prudente , très , un bien rare qu ' il .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Then he set his foot on the ladder in order to ascend.
+    TARGET: Puis il mit le pied sur l’échelle pour monter.
+ PREDICTED: Puis il se mit à monter l ' échelle sur l ' échelle .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Monsieur le Procureur du Roi," said Pierrat abruptly, "How shall we begin?"
+    TARGET: – Monsieur le procureur du roi, dit brusquement Pierrat, par où commencerons-nous ? »
+ PREDICTED: « M . le , dit brusquement , comment - nous ?
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: All in all, we enjoyed a highly satisfactory state of health.
+    TARGET: Notre santé à tous se maintenait dans un état très satisfaisant.
+ PREDICTED: Tout en tout , nous une idée de bonne santé .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: But what can he be wanting here to-day, that fellow?
+    TARGET: Mais que demande-t-il ici, aujourd’hui, celui-là ?
+ PREDICTED: Mais que peut - il faire ici le jour , cet homme ?
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Oh, I would give ten years of my life to weep at her feet for an hour!"
+    TARGET: Oh! je donnerais dix ans de ma vie pour pleurer une heure à ses pieds.
+ PREDICTED: Oh ! j ’ en donnerais dix ans pour que je me les pieds pendant une heure !
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: But he had.
+    TARGET: Hélas !
+ PREDICTED: Mais il avait .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: I do not know that anything essential has been left unexplained."
+    TARGET: Je ne pense pas avoir laissé inexpliqué un point essentiel.
+ PREDICTED: Je ne sais rien qui s ' est tenu .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Le courage manqua tout à fait à notre héros ; il fut sur le point de tomber de peur en montant l’escalier du second étage.
+    TARGET: Our hero's courage failed him completely; he almost collapsed with fear as he climbed the stair to the second floor.
+ PREDICTED: The courage was to our hero ; he was over the point of avec which the windows of the second .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Once this voyage was over, might not Captain Nemo consent to set us free in return for our promise never to reveal his existence?
+    TARGET: Ce voyage terminé, le capitaine Nemo ne consentirait-il pas à nous rendre la liberté sous serment de ne jamais révéler son existence ?
+ PREDICTED: Une fois cette traversée , n ' était - ce pas le capitaine Nemo qu ' il y aurait de retour pour ne rien faire , à - t - il ?
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "Oh, I saw the snare, and I answered you would be quite in despair on your return.
+    TARGET: -- Aussi, je l'ai vu, le piège, et j'ai répondu que vous seriez désespéré à votre retour.
+ PREDICTED: -- Oh ! je vis le piège et je vous répondre , tout à votre retour !
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He was full of little attentions for the two women, particularly for Madame Raquin, whom he overwhelmed with delicate attention.
+    TARGET: Il était aux petits soins pour les deux femmes, surtout pour Mme Raquin, qu'il comblait d'attentions délicates.
+ PREDICTED: Il était plein de tous les deux femmes , surtout pour Mme Raquin , qu ' il fut troublé d ' une attention délicate .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Lord de Winter rose, saluted her ironically, and went out.
+    TARGET: Lord de Winter se leva, salua ironiquement Milady et sortit.
+ PREDICTED: Lord de Winter la releva et la tendit la la corbeille , et sortit .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: I will say more, I undertake to procure for you the best parish in the district.
+    TARGET: Je te dirai plus, je me charge de te procurer la meilleure cure du pays.
+ PREDICTED: Je vous continuerai dans le pays .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'Ah!' thought Julien, greatly excited, 'remorse is the only danger that sublime soul dreads!'
+    TARGET: – Ah! se dit Julien exalté, le remords est le seul danger que redoute cette âme sublime!
+ PREDICTED: Ah ! pensa Julien , fort irrité , ce silence est ce qui aurait de l ’ âme si sublime !
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: 'Such is the effect of the vain pomps of this world; you are evidently accustomed to smiling faces, positive theatres of falsehood.
+    TARGET: – Voilà l’effet des vaines pompes du monde ; vous êtes accoutumé apparemment à des visages riants, véritables théâtres de mensonge.
+ PREDICTED: Tel est le prix du soin de ce monde ; vous êtes évidemment l ’ habitude de vous souriant , pâle des trop malheureux .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "What did I shout?"
+    TARGET: -- Qu'est-ce que j'ai crié?
+ PREDICTED: -- Que m ' a - je dit ?
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: A steward entered.
+    TARGET: Un stewart entra.
+ PREDICTED: Un stewart entra .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The pier became longer and longer, and the blocks of lava piled themselves one on another.
+    TARGET: La jetée s'allongeait, et les blocs de laves solidifiées s'entassaient les uns sur les autres.
+ PREDICTED: Les moellons ne plus , et les moellons de la se en un .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: On his head he wore one of those overloaded helmets of the fifteenth century, which frightened the enemy with their fanciful crests.
+    TARGET: Il avait sur la tête un de ces casques surchargés du quinzième siècle, qui épouvantaient l’ennemi de leurs cimiers chimériques.
+ PREDICTED: Sa tête , à ce propos de faisaient une des de l ' siècle , qui un ennemi faisait un peu de sa langue .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Such a circumstance could only exasperate farther, and, when he ceased, the colour rose into her cheeks, and she said:
+    TARGET: Rien n’était plus fait pour exaspérer Elizabeth, et, des qu’il eut terminé, elle lui répondit, les joues en feu :
+ PREDICTED: Une telle circonstance venait seulement plus loin , et , quand il se leva , la couleur retomba dans ses joues , et elle dit :
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: He spoke of that future which was soon to close for him.
+    TARGET: Il parlait de cet avenir qui allait si tôt se fermer pour lui.
+ PREDICTED: Il parla de cet avenir qui fut bientôt à demi - corps .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The rest of the evening was spent in conjecturing how soon he would return Mr. Bennet's visit, and determining when they should ask him to dinner.
+    TARGET: Le reste de la soirée se passa en conjectures ; ces dames se demandaient quand Mr. Bingley rendrait la visite de Mr.
+ PREDICTED: Le reste du soir se passa en par le retour de Mr . Bennet .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: People are afraid of losing their posts.
+    TARGET: On a peur d’être destitué.
+ PREDICTED: On a peur de perdre ses postes .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "I shall have to go and do for him!
+    TARGET: —Faut que je le creve!… Tiens!
+ PREDICTED: J ’ aurai affaire à l ’ aller !
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The eyes of Porthos were furtively cast upon this lady, and then roved about at large over the nave.
+    TARGET: Les yeux de Porthos s'abaissaient furtivement sur cette dame, puis papillonnaient au loin dans la nef.
+ PREDICTED: Les yeux de Porthos furent Qui , la jeune femme , alors de grande dépense exagérée .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: – C’est-à-dire six de la petite monnaie, dit la Marietta en riant ; je ne veux pas que l’on trompe mon petit abbé.
+    TARGET: "You mean six, and some small change," said Marietta With a smile: "I won't have my little Abate cheated."
+ PREDICTED: " This is at six in the little as he on the side , young in a laugh , I can only with the great of my little ."
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: However, there was no occasion for speaking, but to get forward as fast as possible.
+    TARGET: D'ailleurs, il ne s'agissait pas de parler, mais d'aller en avant.
+ PREDICTED: Cependant il n ' avait pas le temps de parler , mais de se lever pour possible à l ' avance possible .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "What madmen!" he exclaimed.
+    TARGET: —Quels enragés! reprit-il.
+ PREDICTED: « ! dit - il .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Then we thanked M. Thomsen for his kindness, "and we returned to the Phoenix Hotel.
+    TARGET: Nous remerciâmes alors M. Thomson de ses bons soins, et nous revînmes à l'hôtel du Phoenix.
+ PREDICTED: Alors , nous entièrement revêtu de sa bonté , et nous d ' un fil de .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Emma blushed.
+    TARGET: Emma rougit.
+ PREDICTED: Emma rougit .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "No; I pleaded off, and he admitted my plea.
+    TARGET: -- Non. J'ai plaidé et j'ai gagné mon procès.
+ PREDICTED: -- Non , il a parlé , il m ' a commis mon tour .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: The death of your daughter would have been a blessing in comparison of this.
+    TARGET: La mort de votre fille eut été en comparaison une grâce du ciel.
+ PREDICTED: La mort de votre fille avait été à la comparaison de ta fille .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Life was only exhibited in him by movement, his senses had not as yet been restored.
+    TARGET: La vie ne se révélait en lui que par le mouvement. Les sens n'y avaient encore aucune part.
+ PREDICTED: La vie l ’ avait détaché peu par lui , ses sens n ’ avait pas encore le retour .
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "I have a good deal at stake, nephew," said he.
+    TARGET: -- J'ai un enjeu considérable, mon neveu, dit-il.
+ PREDICTED: -- J ' ai beaucoup d ' fameux , mon neveu .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "And what is that, Mr. Spilett?"
+    TARGET: -- Et laquelle, Monsieur Spilett?
+ PREDICTED: -- Et qu ' est - ce , Monsieur Spilett ?
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: "If you wish to go, please get in."
+    TARGET: Si vous voulez partir, montez en voiture.
+ PREDICTED: -- Si vous voulez aller , je vous prie .
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: Don't you know it?"
+    TARGET: Vous ne la connaissez pas ?
+ PREDICTED: Ne la connaissez - vous pas ?
+--------------------------------------------------------------------------------------------------------------------------------
+    SOURCE: She is to marry the man whom she loves; she enters an honourable family, which requires that mine has to be no less honourable.
+    TARGET: Elle épouse l'homme qu'elle aime, elle entre dans une famille honorable qui veut que tout soit honorable dans la mienne.
+ PREDICTED: Elle doit se marier à l ’ homme qu ’ elle aime , elle doit une famille qui ne le veut pas d ’ être moins honnête .
+--------------------------------------------------------------------------------------------------------------------------------
