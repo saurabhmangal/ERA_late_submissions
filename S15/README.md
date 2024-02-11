@@ -1,13 +1,14 @@
-**The assignment was to rewrite the whole code covered in the class in Pytorch-Lightning.Train the model for 10 epochs and achieve the loss of less than 4. 
+The assignment was to rewrite the whole code covered in the class in Pytorch-Lightning.Train the model for 10 epochs and achieve the loss of less than 4. 
 
 In the assignment I had run total 20 EPOCHS and for the 10th EPOCH I was able to get ... loss. 
 
 COPY of the logs is as follows:
-
-***Max length of source sentence: 309
-Max length of target sentence: 274***
-Processing Epoch 00: 100% 4850/4850 [04:44<00:00, 17.06it/s, loss=6.510]
-stty: 'standard input': Inappropriate ioctl for device
+    
+    Max length of source sentence: 309
+    Max length of target sentence: 274
+    
+__Processing Epoch 00: 100% 4850/4850 [04:44<00:00, 17.06it/s, loss=6.510]
+stty: 'standard input': Inappropriate ioctl for device__
 --------------------------------------------------------------------------------
     SOURCE: I was tormented by the contrast between my idea and my handiwork: in each case I had imagined something which I was quite powerless to realise."
     TARGET: Anzi soffrivo per il contrasto che vi era fra l'ideale e l'opera e mi sentivo impotente a dar forma alle immagini della mia mente.
