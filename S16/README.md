@@ -24,6 +24,7 @@ NotebookApp.rate_limit_window=3.0 (secs)
 
 Processing Epoch 01: 100% 6150/6150 [05:08<00:00, 19.94it/s, loss=4.031]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: "No," answered the reporter, "a few bruises only from the ricochet!
@@ -67,6 +68,7 @@ NotebookApp.rate_limit_window=3.0 (secs)
 
 Processing Epoch 05: 100% 6150/6150 [05:13<00:00, 19.61it/s, loss=2.978]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Having done all this I left them the next day, and went on board the ship.
@@ -110,6 +112,7 @@ NotebookApp.rate_limit_window=3.0 (secs)
 
 Processing Epoch 09: 100% 6150/6150 [05:13<00:00, 19.62it/s, loss=2.519]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: You will find here, moreover, the young woman of whom I spoke, who is persecuted, no doubt, in consequence of some court intrigue.
@@ -143,6 +146,7 @@ NotebookApp.rate_limit_window=3.0 (secs)
 
 Processing Epoch 11: 100% 6150/6150 [05:18<00:00, 19.32it/s, loss=2.340]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: "Exquisite!" Conseil replied.
@@ -169,6 +173,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 13: 100% 6150/6150 [05:13<00:00, 19.62it/s, loss=1.980]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: It was the end of November and Holmes and I sat, upon a raw and foggy night, on either side of a blazing fire in our sitting-room in Baker Street.
@@ -182,6 +187,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 14: 100% 6150/6150 [05:13<00:00, 19.61it/s, loss=1.784]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Go on!'
@@ -195,6 +201,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 15: 100% 6150/6150 [05:16<00:00, 19.42it/s, loss=1.791]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: But I have not a minute to-day.
@@ -208,6 +215,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 16: 100% 6150/6150 [05:14<00:00, 19.56it/s, loss=1.959]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Tomorrow, on the day stated and at the hour stated, the tide will peacefully lift it off, and it will resume its navigating through the seas."
@@ -221,6 +229,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 17: 100% 6150/6150 [05:16<00:00, 19.41it/s, loss=1.723]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Let's forge ahead!
@@ -234,6 +243,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 18: 100% 6150/6150 [05:16<00:00, 19.41it/s, loss=1.928]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: A sort of uneasiness had seized Pencroft upon the subject of his vessel.
@@ -247,6 +257,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 19: 100% 6150/6150 [05:18<00:00, 19.33it/s, loss=1.842]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: — Bon, dit-il.
@@ -260,6 +271,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 20: 100% 6150/6150 [05:15<00:00, 19.50it/s, loss=1.697]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Julien's attention was sharply distracted by the almost immediate arrival of a wholly different person.
@@ -273,6 +285,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 21: 100% 6150/6150 [05:16<00:00, 19.44it/s, loss=1.771]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Thousands of luminous sheets and barbed tongues of fire were cast in various directions.
@@ -286,6 +299,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 22: 100% 6150/6150 [05:15<00:00, 19.50it/s, loss=1.643]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Did you ever know one in your life that was transported and had a hundred pounds in his pocket, I'll warrant you, child?' says she.
@@ -299,6 +313,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 23: 100% 6150/6150 [05:15<00:00, 19.50it/s, loss=1.854]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: He was afraid of bringing everything to an end by a sudden concession.
@@ -312,6 +327,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 24: 100% 6150/6150 [05:13<00:00, 19.61it/s, loss=1.699]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: "Their conduct has been such," replied Elizabeth, "as neither you, nor I, nor anybody can ever forget.
@@ -325,6 +341,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 25: 100% 6150/6150 [05:14<00:00, 19.58it/s, loss=1.991]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: The old man shrugged his shoulders, and then let them fall as if overwhelmed beneath an avalanche of gold.
@@ -338,6 +355,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 26: 100% 6150/6150 [05:13<00:00, 19.61it/s, loss=1.771]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: "I pardon you, monseigneur!" said Bonacieux, hesitating to take the purse, fearing, doubtless, that this pretended gift was but a pleasantry.
@@ -351,6 +369,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 27: 100% 6150/6150 [05:17<00:00, 19.37it/s, loss=1.574]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: "A vessel from the Vineyard!
@@ -364,6 +383,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 28: 100% 6150/6150 [05:18<00:00, 19.34it/s, loss=1.654]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: It was a bay horse hardly three years of age, called Trompette.
@@ -377,6 +397,7 @@ Count:  2
 --------------------------------------------------------------------------------
 Processing Epoch 29: 100% 6150/6150 [05:20<00:00, 19.18it/s, loss=1.715]
 stty: 'standard input': Inappropriate ioctl for device
+
 Count:  1
 --------------------------------------------------------------------------------
     SOURCE: Elizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her.
