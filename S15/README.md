@@ -4,8 +4,8 @@ In the assignment I had run total 20 EPOCHS and for the 10th EPOCH I was able to
 
 COPY of the logs is as follows:
 
-Max length of source sentence: 309
-Max length of target sentence: 274
+***Max length of source sentence: 309
+Max length of target sentence: 274***
 Processing Epoch 00: 100% 4850/4850 [04:44<00:00, 17.06it/s, loss=6.510]
 stty: 'standard input': Inappropriate ioctl for device
 --------------------------------------------------------------------------------
