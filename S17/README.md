@@ -4,4 +4,4 @@ GPT Model:
 ![Preview Image]("https://github.com/saurabhmangal/ERA_late_submissions/blob/main/S17/gpt.jpg") 
 
 
-<img src="https://github.com/saurabhmangal/ERA_late_submissions/blob/main/S17/gpt.JPG" alt="alt text" width="500" height="500">
+<img src="https://github.com/saurabhmangal/ERA_late_submissions/blob/main/S17/gpt.JPG" alt="alt text">
