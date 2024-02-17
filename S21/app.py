@@ -5,7 +5,7 @@ import lightning.pytorch as pl
 from torch.nn import functional as F
 from utils import GPTLM,encode,decode
 
-newmodel = GPTLM.load_from_checkpoint('shakespeare_gpt.pth')
+newmodel = GPTLM.load_from_checkpoint('gpt.pth')
 
 def generate_dialogue(character_dropdown):
   if character_dropdown == "NONE":
@@ -73,12 +73,12 @@ HTML_TEMPLATE = """
     <div class="artifact large"></div>
     <div class="artifact large"></div>
     <!-- Content -->
-    <h1>SHAKESPEARE  DIALOGUE  GENERATOR</h1>
+    <h1>SHAKESPEARE GPT</h1>
     <p>Generate dialogue for Shakespearean character by selecting character from dropdown.</p>
     <p>Model: GPT, Dataset: Tiny Shakespeare, Token limit: 100.</p>
 """
 
-with gr.Blocks(theme=gr.themes.Glass(),css=".gradio-container {background: url('file=https://github.com/Delve-ERAV1/S20/assets/11761529/c0ff84a4-dde6-473e-a820-d3797040eb9d')}") as interface:
+with gr.Blocks(theme=gr.themes.Glass()) as interface:
     gr.HTML(value=HTML_TEMPLATE, show_label=False)
 
     gr.Markdown("")
@@ -90,51 +90,7 @@ with gr.Blocks(theme=gr.themes.Glass(),css=".gradio-container {background: url('
     gr.Markdown("")
     gr.Markdown("")
 
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-    gr.Markdown("")
-
-    
+   
     with gr.Row(scale=1):
         character_dropdown = gr.Dropdown(
             label="Select a Character",
