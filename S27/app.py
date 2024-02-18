@@ -20,7 +20,7 @@ model.load_adapter(peft_model_folder)
 
 def generate_dialogue(input_text):
 
-  pipe = pipeline(task="text-generation",model=model,tokenizer=tokenizer,max_length=200)
+  pipe = pipeline(task="text-generation",model=model,tokenizer=tokenizer,max_length=100)
   result = pipe(f"<s>[INST] {input_text} [/INST]")
   return result[0]['generated_text']
     
@@ -36,7 +36,7 @@ HTML_TEMPLATE = """
         position: relative; /* To position the artifacts */
     }
     #app-header h1 {
-        color: #FF0000;
+        color: #add8e6;
         font-size: 2em;
         margin-bottom: 10px;
     }
@@ -47,11 +47,11 @@ HTML_TEMPLATE = """
     .concept:hover {
         transform: scale(1.1);
     }
-    .concept img {
-        width: 100px;
-        border-radius: 10px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
+    # .concept img {
+    #     width: 100px;
+    #     border-radius: 10px;
+    #     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    # }
     .concept-description {
         position: absolute;
         bottom: -30px;
@@ -79,10 +79,9 @@ HTML_TEMPLATE = """
     <!-- Content -->
     <h1>CHAT with fine tuned Phi-2 LLM</h1>
     <p>Generate dialogue for given some initial prompt for context.</p>
-    <p>Model: Phi-2 (https://huggingface.co/microsoft/phi-2),  Dataset: oasst1 (https://huggingface.co/datasets/OpenAssistant/oasst1) </p>
 """
 
-with gr.Blocks(theme=gr.themes.Glass(),css=".gradio-container {background: url('file=https://github.com/santule/ERA/assets/20509836/e78f2bb3-ddd8-4ce9-a941-3d3d7ef7a272')}") as interface:
+with gr.Blocks(theme=gr.themes.Glass())as interface:
     gr.HTML(value=HTML_TEMPLATE, show_label=False)
 
     gr.Markdown("")
@@ -112,7 +111,7 @@ with gr.Blocks(theme=gr.themes.Glass(),css=".gradio-container {background: url('
         inputs = [input_text]
    
     with gr.Column():
-        button = gr.Button("Ask me")
+        button = gr.Button("Generate")
         button.click(generate_dialogue, inputs=inputs, outputs=outputs)
 
 interface.launch()
