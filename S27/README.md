@@ -11,8 +11,8 @@ Number of steps 700.
 Trained on open assistant dataset. https://huggingface.co/datasets/OpenAssistant/oasst1
 Training Logs:
 Step	Training Loss
-10	2.068500
-20	2.272900
+10	2.068500 \n
+20	2.272900 \n
 30	2.271200
 40	2.209400
 50	2.252400
